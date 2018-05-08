@@ -1,0 +1,5 @@
+C:\Users\yc\Downloads\Fast-Quadric-Mesh-Simplification-master\src.dll\Simplify\obj\x64\Release\Simplify.csproj.CoreCompileInputs.cache
+C:\Users\yc\Downloads\Fast-Quadric-Mesh-Simplification-master\src.dll\Simplify\bin\x64\Release\MeshSimplify.dll
+C:\Users\yc\Downloads\Fast-Quadric-Mesh-Simplification-master\src.dll\Simplify\bin\x64\Release\MeshSimplify.pdb
+C:\Users\yc\Downloads\Fast-Quadric-Mesh-Simplification-master\src.dll\Simplify\obj\x64\Release\MeshSimplify.dll
+C:\Users\yc\Downloads\Fast-Quadric-Mesh-Simplification-master\src.dll\Simplify\obj\x64\Release\MeshSimplify.pdb

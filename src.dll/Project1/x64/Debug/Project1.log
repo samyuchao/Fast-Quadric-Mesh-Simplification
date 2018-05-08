@@ -1,0 +1,14 @@
+﻿  example_wrap.cxx
+  file.cpp
+  test.cpp
+c:\users\yc\downloads\fast-quadric-mesh-simplification-master\src.dll\project1\test.cpp(25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yc\downloads\fast-quadric-mesh-simplification-master\src.dll\project1\test.cpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yc\downloads\fast-quadric-mesh-simplification-master\src.dll\project1\test.cpp(89): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yc\downloads\fast-quadric-mesh-simplification-master\src.dll\project1\test.cpp(119): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yc\downloads\fast-quadric-mesh-simplification-master\src.dll\project1\test.cpp(169): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yc\downloads\fast-quadric-mesh-simplification-master\src.dll\project1\test.cpp(174): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yc\downloads\fast-quadric-mesh-simplification-master\src.dll\project1\test.cpp(568): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yc\downloads\fast-quadric-mesh-simplification-master\src.dll\project1\test.cpp(572): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+     Creating library C:\Users\yc\Downloads\Fast-Quadric-Mesh-Simplification-master\src.dll\x64\Debug\Project1.lib and object C:\Users\yc\Downloads\Fast-Quadric-Mesh-Simplification-master\src.dll\x64\Debug\Project1.exp
+  Project1.vcxproj -> C:\Users\yc\Downloads\Fast-Quadric-Mesh-Simplification-master\src.dll\x64\Debug\Project1.dll

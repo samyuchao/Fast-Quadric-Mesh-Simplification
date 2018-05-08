@@ -1,0 +1,36 @@
+%module cppdll
+%{
+	/* 在包装代码中包含头文件 */
+	/*typedef struct vector3
+	{
+		double x, y, z;
+	};
+
+	typedef struct vec3f
+	{
+		double x, y, z;
+	};
+	typedef struct Triangle { int v[3];double err[4];int deleted, dirty;vec3f n; };
+	typedef struct Vertex { vec3f p;int tstart, tcount;SymetricMatrix q;int border; };
+	typedef struct Ref { int tid, tvertex; };
+
+	extern std::vector<Triangle> triangles;
+	extern std::vector<Vertex> vertices;
+	extern std::vector<Ref> refs;
+	extern void simplify_mesh(int target_count, double agressiveness = 7, bool verbose = false);
+	extern void simplify_mesh_lossless(bool verbose = false);
+	extern void write_obj(const char* filename);
+	extern void load_obj(const char* filename);*/
+
+
+	#include "test.h"  
+%}
+/* 解析头文件生成包装代码 */
+
+%include "std_vector.i"
+// Instantiate templates used by example
+namespace std{
+	%template(IntVector) vector<int>;
+%template(DoubleVector) vector<double>;
+}
+%include "test.h"  
